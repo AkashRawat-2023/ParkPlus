@@ -1,5 +1,7 @@
-package com.driver.entity;
+package com.driver.model;
 
+import com.driver.model.ParkingLot;
+import com.driver.model.Reservation;
 import com.driver.model.SpotType;
 
 import javax.persistence.*;
